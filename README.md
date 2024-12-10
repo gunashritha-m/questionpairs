@@ -1,12 +1,11 @@
 
-
-
 BERT Integration for Question Pair Classification
 
 This repository contains a Python implementation for fine-tuning a BERT model to classify question pairs as duplicates or not, using the Quora Question Pairs dataset.
 
  Features
-- Preprocessing and encoding question pairs using the BERT tokenizer.
+- Preprocessing 
+- Feature Extraction
 - Fine-tuning the BERT model for binary classification.
 - Training and evaluation loops.
 - Saving and loading the fine-tuned model.
